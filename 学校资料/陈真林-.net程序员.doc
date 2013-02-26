@@ -1,9 +1,9 @@
 MIME-Version: 1.0
-Content-Type: multipart/related; boundary="----=_NextPart_01CDE347.899C08A0"
+Content-Type: multipart/related; boundary="----=_NextPart_01CE1412.DBE26FE0"
 
 此文档为“单个文件网页”，也称为“Web 档案”文件。如果您看到此消息，但是您的浏览器或编辑器不支持“Web 档案”文件。请下载支持“Web 档案”的浏览器，如 Microsoft Internet Explorer。
 
-------=_NextPart_01CDE347.899C08A0
+------=_NextPart_01CE1412.DBE26FE0
 Content-Location: file:///C:/647E5238/file0184.htm
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/html; charset="us-ascii"
@@ -31,21 +31,22 @@ w\:* {behavior:url(#default#VML);}
  <o:DocumentProperties>
   <o:Author>Administrator</o:Author>
   <o:LastAuthor>alin.chen</o:LastAuthor>
-  <o:Revision>65</o:Revision>
-  <o:TotalTime>195</o:TotalTime>
+  <o:Revision>66</o:Revision>
+  <o:TotalTime>197</o:TotalTime>
   <o:Created>2012-11-25T18:07:00Z</o:Created>
-  <o:LastSaved>2012-12-26T01:01:00Z</o:LastSaved>
+  <o:LastSaved>2013-02-26T03:17:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>307</o:Words>
-  <o:Characters>1753</o:Characters>
+  <o:Words>310</o:Words>
+  <o:Characters>1769</o:Characters>
   <o:Lines>14</o:Lines>
   <o:Paragraphs>4</o:Paragraphs>
-  <o:CharactersWithSpaces>2056</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>2075</o:CharactersWithSpaces>
   <o:Version>11.9999</o:Version>
  </o:DocumentProperties>
 </xml><![endif]--><!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:Zoom>110</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
   <w:GrammarState>Clean</w:GrammarState>
   <w:ValidateAgainstSchemas/>
   <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
@@ -135,6 +136,9 @@ p.font, li.font, div.font
 	font-family:SimSun;
 	mso-bidi-font-family:SimSun;
 	color:black;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
 @page Section1
 	{size:595.3pt 841.9pt;
 	margin:72.0pt 90.0pt 72.0pt 90.0pt;
@@ -185,7 +189,7 @@ table.MsoTableGrid
 	mso-bidi-language:#0400;}
 </style>
 <![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext=3D"edit" spidmax=3D"7170"/>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"8194"/>
 </xml><![endif]--><!--[if gte mso 9]><xml>
  <o:shapelayout v:ext=3D"edit">
   <o:idmap v:ext=3D"edit" data=3D"1"/>
@@ -489,13 +493,15 @@ span></p>
 t 0cm 5.4pt'>
       <p class=3DMsoNormal style=3D'text-align:justify;text-justify:inter-i=
 deograph;
-      line-height:150%;mso-pagination:none'><b style=3D'mso-bidi-font-weigh=
-t:
-      normal'><span lang=3DEN-US style=3D'font-size:9.0pt;mso-bidi-font-siz=
-e:12.0pt;
-      line-height:150%'>PHP</span></b><span lang=3DEN-US style=3D'font-size=
-:9.0pt;
-      mso-bidi-font-size:12.0pt;line-height:150%'>,Apache |</span><span
+      line-height:150%;mso-pagination:none'><span class=3DSpellE><b
+      style=3D'mso-bidi-font-weight:normal'><span lang=3DEN-US style=3D'fon=
+t-size:
+      9.0pt;mso-bidi-font-size:12.0pt;line-height:150%'>PHP</span></b><span
+      lang=3DEN-US style=3D'font-size:9.0pt;mso-bidi-font-size:12.0pt;line-=
+height:
+      150%'>,Apache</span></span><span lang=3DEN-US style=3D'font-size:9.0p=
+t;
+      mso-bidi-font-size:12.0pt;line-height:150%'> |</span><span
       style=3D'font-size:9.0pt;mso-bidi-font-size:12.0pt;line-height:150%'>=
 &#29087;&#32451;<span
       lang=3DEN-US>,24</span>&#26376;<span lang=3DEN-US><o:p></o:p></span><=
@@ -505,17 +511,19 @@ e:12.0pt;
  0cm 5.4pt'>
       <p class=3DMsoNormal style=3D'text-align:justify;text-justify:inter-i=
 deograph;
-      line-height:150%;mso-pagination:none'><b style=3D'mso-bidi-font-weigh=
-t:
-      normal'><span lang=3DEN-US style=3D'font-size:9.0pt;mso-bidi-font-siz=
-e:12.0pt;
-      line-height:150%'>Mysql</span></b><span lang=3DEN-US style=3D'font-si=
-ze:9.0pt;
-      mso-bidi-font-size:12.0pt;line-height:150%'>|</span><span
-      style=3D'font-size:9.0pt;mso-bidi-font-size:12.0pt;line-height:150%'>=
-&#29087;&#32451;<span
-      lang=3DEN-US>,24</span>&#26376;<span lang=3DEN-US><span
-      style=3D'mso-spacerun:yes'>&nbsp; </span><o:p></o:p></span></span></p>
+      line-height:150%;mso-pagination:none'><span class=3DSpellE><b
+      style=3D'mso-bidi-font-weight:normal'><span lang=3DEN-US style=3D'fon=
+t-size:
+      9.0pt;mso-bidi-font-size:12.0pt;line-height:150%'>Mysql</span></b></s=
+pan><span
+      lang=3DEN-US style=3D'font-size:9.0pt;mso-bidi-font-size:12.0pt;line-=
+height:
+      150%'>|</span><span style=3D'font-size:9.0pt;mso-bidi-font-size:12.0p=
+t;
+      line-height:150%'>&#29087;&#32451;<span lang=3DEN-US>,24</span>&#2637=
+6;<span
+      lang=3DEN-US><span style=3D'mso-spacerun:yes'>&nbsp; </span><o:p></o:=
+p></span></span></p>
       </td>
       <td width=3D"31%" valign=3Dtop style=3D'width:31.32%;padding:0cm 5.4p=
 t 0cm 5.4pt'>
@@ -523,10 +531,9 @@ t 0cm 5.4pt'>
 deograph;
       line-height:150%;mso-pagination:none'><span lang=3DEN-US style=3D'fon=
 t-size:
-      9.0pt;mso-bidi-font-size:12.0pt;line-height:150%'>HTML,CSS, Jquery |<=
-/span><span
-      style=3D'font-size:9.0pt;mso-bidi-font-size:12.0pt;line-height:150%'>=
-&#29087;&#32451;<span
+      9.0pt;mso-bidi-font-size:12.0pt;line-height:150%'>HTML,CSS, <span
+      class=3DSpellE>Jquery</span> |</span><span style=3D'font-size:9.0pt;
+      mso-bidi-font-size:12.0pt;line-height:150%'>&#29087;&#32451;<span
       lang=3DEN-US>,12</span>&#26376;<span lang=3DEN-US><o:p></o:p></span><=
 /span></p>
       </td>
@@ -536,14 +543,14 @@ t-size:
 t 0cm 5.4pt'>
       <p class=3DMsoNormal style=3D'text-align:justify;text-justify:inter-i=
 deograph;
-      line-height:150%;mso-pagination:none'><b style=3D'mso-bidi-font-weigh=
-t:
-      normal'><span lang=3DEN-US style=3D'font-size:9.0pt;mso-bidi-font-siz=
-e:12.0pt;
-      line-height:150%'>ThinkPHP</span></b><b style=3D'mso-bidi-font-weight=
-:normal'><span
-      style=3D'font-size:9.0pt;mso-bidi-font-size:12.0pt;line-height:150%'>=
-&#26694;&#26550;</span></b><span
+      line-height:150%;mso-pagination:none'><span class=3DSpellE><b
+      style=3D'mso-bidi-font-weight:normal'><span lang=3DEN-US style=3D'fon=
+t-size:
+      9.0pt;mso-bidi-font-size:12.0pt;line-height:150%'>ThinkPHP</span></b>=
+</span><b
+      style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:9.0pt;
+      mso-bidi-font-size:12.0pt;line-height:150%'>&#26694;&#26550;</span></=
+b><span
       lang=3DEN-US style=3D'font-size:9.0pt;mso-bidi-font-size:12.0pt;line-=
 height:
       150%'>|</span><span style=3D'font-size:9.0pt;mso-bidi-font-size:12.0p=
@@ -804,8 +811,8 @@ deograph;
       style=3D'mso-bidi-font-weight:normal'>&#22686;&#21152;&#29983;&#25104=
 ;&#20845;&#20010;&#26376;&#36208;&#21183;&#22270;&#30340;&#21151;&#33021;</=
 b>&#12290;&#22312;&#39033;&#30446;&#20013;&#29992;&#21040;&#20102;<span
-      lang=3DEN-US>zedgraph</span>&#24320;&#28304;&#25511;&#20214;&#36827;&=
-#34892;&#32472;&#22270;&#65292;&#22312;<span
+      class=3DSpellE><span lang=3DEN-US>zedgraph</span></span>&#24320;&#283=
+04;&#25511;&#20214;&#36827;&#34892;&#32472;&#22270;&#65292;&#22312;<span
       lang=3DEN-US>MS SQL</span>&#20013;&#20351;&#29992;&#20102;&#23384;&#2=
 0648;&#36807;&#31243;&#26469;&#36827;&#34892;&#25968;&#25454;&#35835;&#2146=
 2;&#12289;&#21019;&#24314;&#21644;&#26356;&#26032;&#25805;&#20316;&#12290;<=
@@ -849,8 +856,9 @@ t 0cm 5.4pt'>
 i-font-weight:
       normal'><span style=3D'font-size:9.0pt;color:black'>&#20844;&#21496;&=
 #30005;&#33041;&#20449;&#24687;&#31995;&#32479;&#65288;<span
-      lang=3DEN-US>ComputerAssets</span>&#65289;<span lang=3DEN-US><o:p></o=
-:p></span></span></b></p>
+      class=3DSpellE><span lang=3DEN-US>ComputerAssets</span></span>&#65289=
+;<span
+      lang=3DEN-US><o:p></o:p></span></span></b></p>
       </td>
       <td width=3D"42%" valign=3Dtop style=3D'width:42.14%;padding:0cm 0cm =
 0cm 0cm'>
@@ -1012,9 +1020,12 @@ t 0cm 5.4pt'>
       </td>
       <td width=3D"84%" valign=3Dtop style=3D'width:84.28%;padding:0cm 5.4p=
 t 0cm 5.4pt'>
-      <p class=3DMsoNormal style=3D'line-height:16.0pt'><span lang=3DEN-US
-      style=3D'font-size:9.0pt;color:black'>Linux,Mysql<o:p></o:p></span></=
-p>
+      <p class=3DMsoNormal style=3D'line-height:16.0pt'><span class=3DSpell=
+E><span
+      lang=3DEN-US style=3D'font-size:9.0pt;color:black'>Linux,Mysql</span>=
+</span><span
+      lang=3DEN-US style=3D'font-size:9.0pt;color:black'><o:p></o:p></span>=
+</p>
       </td>
      </tr>
      <tr style=3D'mso-yfti-irow:3'>
@@ -1027,9 +1038,12 @@ t 0cm 5.4pt'>
       </td>
       <td width=3D"84%" valign=3Dtop style=3D'width:84.28%;padding:0cm 5.4p=
 t 0cm 5.4pt'>
-      <p class=3DMsoNormal style=3D'line-height:16.0pt'><span lang=3DEN-US
-      style=3D'font-size:9.0pt;color:black'>Zend Studio,phpMyAdmin<o:p></o:=
-p></span></p>
+      <p class=3DMsoNormal style=3D'line-height:16.0pt'><span class=3DSpell=
+E><span
+      lang=3DEN-US style=3D'font-size:9.0pt;color:black'>Zend</span></span>=
+<span
+      lang=3DEN-US style=3D'font-size:9.0pt;color:black'> <span class=3DSpe=
+llE>Studio,phpMyAdmin</span><o:p></o:p></span></p>
       </td>
      </tr>
      <tr style=3D'mso-yfti-irow:4'>
@@ -1086,16 +1100,18 @@ t 0cm 5.4pt'
       9.0pt;color:black'>&#31995;&#32479;&#22312;<b style=3D'mso-bidi-font-=
 weight:
       normal'><span lang=3DEN-US>Linux</span>&#29615;&#22659;</b>&#19979;&#=
-24320;&#21457;&#65292;&#24182;&#20351;&#29992;<b
-      style=3D'mso-bidi-font-weight:normal'><span lang=3DEN-US>ThinkPHP</sp=
-an>&#24320;&#28304;&#26694;&#26550;</b>&#12290;&#36890;&#36807;&#35813;&#31=
-995;&#32479;&#65292;&#29087;&#24713;&#20351;&#29992;<span
-      lang=3DEN-US>php</span>&#33050;&#26412;&#35821;&#35328;&#65292;&#2908=
-7;&#24713;&#25805;&#20316;<span
+24320;&#21457;&#65292;&#24182;&#20351;&#29992;<span
+      class=3DSpellE><b style=3D'mso-bidi-font-weight:normal'><span lang=3D=
+EN-US>ThinkPHP</span></b></span><b
+      style=3D'mso-bidi-font-weight:normal'>&#24320;&#28304;&#26694;&#26550=
+;</b>&#12290;&#36890;&#36807;&#35813;&#31995;&#32479;&#65292;&#29087;&#2471=
+3;&#20351;&#29992;<span
+      class=3DSpellE><span lang=3DEN-US>php</span></span>&#33050;&#26412;&#=
+35821;&#35328;&#65292;&#29087;&#24713;&#25805;&#20316;<span
       lang=3DEN-US>MYSQL</span>&#25968;&#25454;&#24211;&#65292;&#28145;&#21=
 051;&#20102;&#35299;<span
-      lang=3DEN-US>ThinkPHP</span>&#24320;&#28304;&#26694;&#26550;&#20351;&=
-#29992;<span
+      class=3DSpellE><span lang=3DEN-US>ThinkPHP</span></span>&#24320;&#283=
+04;&#26694;&#26550;&#20351;&#29992;<span
       lang=3DEN-US>MVC</span>&#23454;&#29616;&#27169;&#26495;&#20998;&#3116=
 3;&#30340;&#37325;&#35201;&#24605;&#24819;&#12290;<span
       lang=3DEN-US><o:p></o:p></span></span></p>
@@ -1665,8 +1681,10 @@ span></span></p>
 4pt 0cm 5.4pt'>
         <p class=3DMsoNormal style=3D'line-height:16.0pt'><span style=3D'fo=
 nt-size:
-        9.0pt;color:black'>&#20570;&#20107;&#36807;&#20110;&#25191;&#30528;=
-&#12290;<span
+        9.0pt;color:black'>&#29983;&#27963;&#19981;&#22826;&#35762;&#31350;=
+&#65292;&#29233;&#37003;&#36962;&#12290;&#23383;&#20889;&#28518;&#33609;&#1=
+2290;&#25171;&#29699;&#21482;&#28041;&#29454;&#65292;&#26410;&#33021;&#3193=
+4;&#65281;<span
         lang=3DEN-US><o:p></o:p></span></span></p>
         </td>
        </tr>
@@ -1697,7 +1715,7 @@ an></p>
 
 </html>
 
-------=_NextPart_01CDE347.899C08A0
+------=_NextPart_01CE1412.DBE26FE0
 Content-Location: file:///C:/647E5238/file0184.files/image001.jpg
 Content-Transfer-Encoding: base64
 Content-Type: image/jpeg
@@ -2048,7 +2066,7 @@ FLo+m9NP9vfLy/dtefDB+AovKl2/pmoU+gcV8P3bq5VpXl/pgaynQ+m6T/0fzDj+69PDnTKv28sH
 oOFJf8XnX9u1or/6+vEUpp8tfD/XGffQCm6/pmo/21z4/u2v38/wwXiaHnXyfptf/Pf/AKzw+OVM
 ByrKTH02v/nOA+X92/x8MFOdDXiR9N0Nf9B/PY4fuuv81PH4YB2TaEca/9k=
 
-------=_NextPart_01CDE347.899C08A0
+------=_NextPart_01CE1412.DBE26FE0
 Content-Location: file:///C:/647E5238/file0184.files/image002.jpg
 Content-Transfer-Encoding: base64
 Content-Type: image/jpeg
@@ -2089,7 +2107,7 @@ qvikAH40cmmZDsDGc0zijmikAgOaWpPs77uooFu/qtAEYpxJbANP+zv6rS/Z39VoAiII5rodK8Y3
 tjCLe5X7VCPu7jhl/GsPyH9RR9mf+8KpNrYVrlzWNcudYmy/7uIHKxjp+PrWaOalNs/95aPsz/3h
 SbuMjwB3pM1L9mf+8KPs7+q0gIs80zeasfZm9RUfkN6rQB//2R==
 
-------=_NextPart_01CDE347.899C08A0
+------=_NextPart_01CE1412.DBE26FE0
 Content-Location: file:///C:/647E5238/file0184.files/filelist.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml; charset="utf-8"
@@ -2100,4 +2118,4 @@ Content-Type: text/xml; charset="utf-8"
  <o:File HRef=3D"image002.jpg"/>
  <o:File HRef=3D"filelist.xml"/>
 </xml>
-------=_NextPart_01CDE347.899C08A0--
+------=_NextPart_01CE1412.DBE26FE0--
