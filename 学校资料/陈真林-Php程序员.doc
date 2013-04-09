@@ -1,9 +1,9 @@
 MIME-Version: 1.0
-Content-Type: multipart/related; boundary="----=_NextPart_01CE1F67.CA2ECB80"
+Content-Type: multipart/related; boundary="----=_NextPart_01CE2A0E.DEA5A730"
 
 此文档为“单个文件网页”，也称为“Web 档案”文件。如果您看到此消息，但是您的浏览器或编辑器不支持“Web 档案”文件。请下载支持“Web 档案”的浏览器，如 Windows? Internet Explorer?。
 
-------=_NextPart_01CE1F67.CA2ECB80
+------=_NextPart_01CE2A0E.DEA5A730
 Content-Location: file:///C:/E8AC5238/file7352.htm
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/html; charset="us-ascii"
@@ -32,16 +32,16 @@ w\:* {behavior:url(#default#VML);}
  <o:DocumentProperties>
   <o:Author>Administrator</o:Author>
   <o:LastAuthor>Alin</o:LastAuthor>
-  <o:Revision>83</o:Revision>
-  <o:TotalTime>201</o:TotalTime>
+  <o:Revision>90</o:Revision>
+  <o:TotalTime>209</o:TotalTime>
   <o:Created>2012-11-25T18:07:00Z</o:Created>
-  <o:LastSaved>2013-03-12T13:23:00Z</o:LastSaved>
+  <o:LastSaved>2013-03-26T02:44:00Z</o:LastSaved>
   <o:Pages>2</o:Pages>
-  <o:Words>310</o:Words>
-  <o:Characters>1767</o:Characters>
+  <o:Words>313</o:Words>
+  <o:Characters>1785</o:Characters>
   <o:Lines>14</o:Lines>
   <o:Paragraphs>4</o:Paragraphs>
-  <o:CharactersWithSpaces>2073</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>2094</o:CharactersWithSpaces>
   <o:Version>14.00</o:Version>
  </o:DocumentProperties>
 </xml><![endif]-->
@@ -51,6 +51,7 @@ l">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:Zoom>110</w:Zoom>
+  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:ValidateAgainstSchemas/>
@@ -484,6 +485,9 @@ p.font, li.font, div.font
 	font-family:SimSun;
 	mso-bidi-font-family:SimSun;
 	color:black;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
@@ -591,7 +595,8 @@ deograph;
       line-height:150%;mso-pagination:none'><span style=3D'font-size:9.0pt;
       line-height:150%'>&#22995;&#21517;</span><b style=3D'mso-bidi-font-we=
 ight:
-      normal'><span lang=3DEN-US>|</span>&#38472;&#30495;&#26519;</b><span
+      normal'><span lang=3DEN-US>|</span><span class=3DGramE>&#38472;&#3049=
+5;&#26519;</span></b><span
       lang=3DEN-US style=3D'font-size:9.0pt;mso-bidi-font-size:12.0pt;line-=
 height:
       150%'><o:p></o:p></span></p>
@@ -819,8 +824,8 @@ e:12.0pt;
       mso-bidi-font-size:12.0pt;line-height:150%'>,ASP.NET MVC|</span><span
       style=3D'font-size:9.0pt;mso-bidi-font-size:12.0pt;line-height:150%'>=
 &#29087;&#32451;<span
-      lang=3DEN-US>,24</span>&#26376;<span lang=3DEN-US><o:p></o:p></span><=
-/span></p>
+      lang=3DEN-US>,<span class=3DGramE>24</span></span>&#26376;<span lang=
+=3DEN-US><o:p></o:p></span></span></p>
       </td>
       <td width=3D"31%" valign=3Dtop style=3D'width:31.3%;padding:0cm 5.4pt=
  0cm 5.4pt'>
@@ -835,8 +840,8 @@ e:12.0pt;
 |</span><span
       style=3D'font-size:9.0pt;mso-bidi-font-size:12.0pt;line-height:150%'>=
 &#29087;&#32451;<span
-      lang=3DEN-US>,24</span>&#26376;<span lang=3DEN-US><o:p></o:p></span><=
-/span></p>
+      lang=3DEN-US>,<span class=3DGramE>24</span></span>&#26376;<span lang=
+=3DEN-US><o:p></o:p></span></span></p>
       </td>
       <td width=3D"31%" valign=3Dtop style=3D'width:31.32%;padding:0cm 5.4p=
 t 0cm 5.4pt'>
@@ -862,8 +867,8 @@ e:12.0pt;
       mso-bidi-font-size:12.0pt;line-height:150%'>,Apache |</span><span
       style=3D'font-size:9.0pt;mso-bidi-font-size:12.0pt;line-height:150%'>=
 &#29087;&#32451;<span
-      lang=3DEN-US>,24</span>&#26376;<span lang=3DEN-US><o:p></o:p></span><=
-/span></p>
+      lang=3DEN-US>,<span class=3DGramE>24</span></span>&#26376;<span lang=
+=3DEN-US><o:p></o:p></span></span></p>
       </td>
       <td width=3D"31%" valign=3Dtop style=3D'width:31.3%;padding:0cm 5.4pt=
  0cm 5.4pt'>
@@ -878,7 +883,8 @@ ze:9.0pt;
       mso-bidi-font-size:12.0pt;line-height:150%'>|</span><span
       style=3D'font-size:9.0pt;mso-bidi-font-size:12.0pt;line-height:150%'>=
 &#29087;&#32451;<span
-      lang=3DEN-US>,24</span>&#26376;<span lang=3DEN-US><span
+      lang=3DEN-US>,<span class=3DGramE>24</span></span>&#26376;<span lang=
+=3DEN-US><span
       style=3D'mso-spacerun:yes'>&nbsp; </span><o:p></o:p></span></span></p>
       </td>
       <td width=3D"31%" valign=3Dtop style=3D'width:31.32%;padding:0cm 5.4p=
@@ -1052,8 +1058,8 @@ t 0cm 5.4pt'>
 i-font-weight:
       normal'><span style=3D'font-size:9.0pt;color:black'>&#22522;&#20110;<=
 span
-      lang=3DEN-US>PHP</span>&#24320;&#21457;&#30340;&#20010;&#20154;&#2133=
-8;&#23458;<span
+      lang=3DEN-US>PHP</span>&#24320;&#21457;&#30340;<span class=3DGramE>&#=
+20010;&#20154;&#21338;&#23458;</span><span
       lang=3DEN-US><o:p></o:p></span></span></b></p>
       </td>
       <td width=3D"42%" valign=3Dtop style=3D'width:42.14%;padding:0cm 0cm =
@@ -1126,9 +1132,12 @@ ing:0cm 5.4pt 0cm 5.4pt'
       <p class=3DMsoNormal style=3D'line-height:16.0pt'><span style=3D'font=
 -size:
       9.0pt;color:black'>&#23454;&#29616;&#31995;&#32479;&#30340;&#21069;&#=
-21518;&#21488;&#31649;&#29702;&#65292;&#30041;&#35328;&#26495;&#21457;&#240=
-67;&#21151;&#33021;&#20197;&#21450;&#29992;&#25143;&#30456;&#20114;&#20851;=
-&#27880;&#26597;&#30475;&#30041;&#35328;&#31561;&#12290;<span
+21518;&#21488;&#31649;&#29702;&#65292;&#29992;&#25143;&#27983;&#35272;&#259=
+91;&#31456;&#12289;&#20351;&#29992;&#30041;&#35328;<span
+      class=3DGramE>&#26495;&#21457;&#24067;</span>&#21151;&#33021;&#65292;=
+&#28216;&#23458;&#30041;&#35328;&#12289;&#21457;&#34920;&#35780;&#35770;&#2=
+0197;&#21450;&#29992;&#25143;&#20043;&#38388;&#30456;&#20114;&#20851;&#2788=
+0;&#26597;&#30475;&#30041;&#35328;&#31561;&#12290;<span
       lang=3DEN-US><o:p></o:p></span></span></p>
       </td>
      </tr>
@@ -1359,8 +1368,9 @@ t 0cm 5.4pt'>
 deograph;
       line-height:16.0pt'><b style=3D'mso-bidi-font-weight:normal'><span
       style=3D'font-size:9.0pt;color:black'>&#29983;&#25104;&#36208;&#21183=
-;&#22270;&#36719;&#20214;<span
-      lang=3DEN-US><o:p></o:p></span></span></b></p>
+;<span
+      class=3DGramE>&#22270;&#36719;&#20214;</span><span lang=3DEN-US><o:p>=
+</o:p></span></span></b></p>
       </td>
       <td width=3D"42%" valign=3Dtop style=3D'width:42.14%;padding:0cm 0cm =
 0cm 0cm'>
@@ -1461,11 +1471,12 @@ ing:0cm 5.4pt 0cm 5.4pt'
 deograph;
       line-height:16.0pt'><span style=3D'font-size:9.0pt;color:black'>&#223=
 12;&#36825;&#20010;&#39033;&#30446;&#20013;&#25105;&#20027;&#35201;&#26159;=
-&#36127;&#36131;&#23545;&#29983;&#25104;&#36208;&#21183;&#22270;&#36719;&#2=
-0214;<b
-      style=3D'mso-bidi-font-weight:normal'>&#22686;&#21152;&#29983;&#25104=
-;&#20845;&#20010;&#26376;&#36208;&#21183;&#22270;&#30340;&#21151;&#33021;</=
-b>&#12290;&#22312;&#39033;&#30446;&#20013;&#29992;&#21040;&#20102;<span
+&#36127;&#36131;&#23545;&#29983;&#25104;&#36208;&#21183;<span
+      class=3DGramE>&#22270;&#36719;&#20214;</span><b style=3D'mso-bidi-fon=
+t-weight:
+      normal'>&#22686;&#21152;&#29983;&#25104;&#20845;&#20010;&#26376;&#362=
+08;&#21183;&#22270;&#30340;&#21151;&#33021;</b>&#12290;&#22312;&#39033;&#30=
+446;&#20013;&#29992;&#21040;&#20102;<span
       lang=3DEN-US>zedgraph</span>&#24320;&#28304;&#25511;&#20214;&#36827;&=
 #34892;&#32472;&#22270;&#65292;&#22312;<span
       lang=3DEN-US>MS SQL</span>&#20013;&#20351;&#29992;&#20102;&#23384;&#2=
@@ -1830,9 +1841,9 @@ t 0cm 5.4pt'>
 t 0cm 5.4pt'>
       <p class=3DMsoNormal style=3D'line-height:16.0pt'><span style=3D'font=
 -size:
-      9.0pt;color:black'>&#32593;&#32476;&#23433;&#20840;&#23454;&#35757;&#=
-39033;&#30446;<span
-      lang=3DEN-US><o:p></o:p></span></span></p>
+      9.0pt;color:black'>&#32593;&#32476;&#23433;&#20840;&#23454;<span
+      class=3DGramE>&#35757;&#39033;&#30446;</span><span lang=3DEN-US><o:p>=
+</o:p></span></span></p>
       </td>
      </tr>
      <tr style=3D'mso-yfti-irow:1;mso-yfti-lastrow:yes'>
@@ -1846,10 +1857,11 @@ ing:0cm 5.4pt 0cm 5.4pt'>
       <p class=3DMsoNormal style=3D'line-height:16.0pt'><span style=3D'font=
 -size:
       9.0pt;color:black'>&#21442;&#35266;&#36335;&#30001;&#22120;&#12289;&#=
-20132;&#25442;&#26426;&#31561;&#35774;&#22791;&#26426;&#22120;&#65292;&#234=
-54;&#35757;&#23545;&#19968;&#24162;&#22823;&#27004;&#36827;&#34892;&#32593;=
-&#32476;&#25645;&#24314;&#21644;&#30456;&#24212;&#30340;&#32593;&#32476;&#3=
-5774;&#22791;&#30456;&#20851;&#37197;&#32622;&#12290;<span
+20132;&#25442;&#26426;&#31561;&#35774;&#22791;&#26426;&#22120;&#65292;<span
+      class=3DGramE>&#23454;&#35757;&#23545;&#19968;&#24162;</span>&#22823;=
+&#27004;&#36827;&#34892;&#32593;&#32476;&#25645;&#24314;&#21644;&#30456;&#2=
+4212;&#30340;&#32593;&#32476;&#35774;&#22791;&#30456;&#20851;&#37197;&#3262=
+2;&#12290;<span
       lang=3DEN-US><o:p></o:p></span></span></p>
       </td>
      </tr>
@@ -2048,7 +2060,7 @@ nt-size:
 
 </html>
 
-------=_NextPart_01CE1F67.CA2ECB80
+------=_NextPart_01CE2A0E.DEA5A730
 Content-Location: file:///C:/E8AC5238/file7352.files/themedata.thmx
 Content-Transfer-Encoding: base64
 Content-Type: application/vnd.ms-officetheme
@@ -2109,7 +2121,7 @@ AAAAAAAAAADWAgAAdGhlbWUvdGhlbWUvdGhlbWUxLnhtbFBLAQItABQABgAIAAAAIQAN0ZCftgAA
 ABsBAAAnAAAAAAAAAAAAAAAAALMJAAB0aGVtZS90aGVtZS9fcmVscy90aGVtZU1hbmFnZXIueG1s
 LnJlbHNQSwUGAAAAAAUABQBdAQAArgoAAAAA
 
-------=_NextPart_01CE1F67.CA2ECB80
+------=_NextPart_01CE2A0E.DEA5A730
 Content-Location: file:///C:/E8AC5238/file7352.files/colorschememapping.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml
@@ -2119,7 +2131,7 @@ Content-Type: text/xml
  bg1=3D"lt1" tx1=3D"dk1" bg2=3D"lt2" tx2=3D"dk2" accent1=3D"accent1" accent=
 2=3D"accent2" accent3=3D"accent3" accent4=3D"accent4" accent5=3D"accent5" a=
 ccent6=3D"accent6" hlink=3D"hlink" folHlink=3D"folHlink"/>
-------=_NextPart_01CE1F67.CA2ECB80
+------=_NextPart_01CE2A0E.DEA5A730
 Content-Location: file:///C:/E8AC5238/file7352.files/image001.jpg
 Content-Transfer-Encoding: base64
 Content-Type: image/jpeg
@@ -2470,7 +2482,7 @@ FLo+m9NP9vfLy/dtefDB+AovKl2/pmoU+gcV8P3bq5VpXl/pgaynQ+m6T/0fzDj+69PDnTKv28sH
 oOFJf8XnX9u1or/6+vEUpp8tfD/XGffQCm6/pmo/21z4/u2v38/wwXiaHnXyfptf/Pf/AKzw+OVM
 ByrKTH02v/nOA+X92/x8MFOdDXiR9N0Nf9B/PY4fuuv81PH4YB2TaEca/9k=
 
-------=_NextPart_01CE1F67.CA2ECB80
+------=_NextPart_01CE2A0E.DEA5A730
 Content-Location: file:///C:/E8AC5238/file7352.files/image002.jpg
 Content-Transfer-Encoding: base64
 Content-Type: image/jpeg
@@ -2511,7 +2523,7 @@ q01SUdWKVZy0RW1G+fUL6S4k6ueB6DsKgxTQOKXmmZC4GAc03ijmkpDDOaKk+ztu6ilFu3qKBEY6
 f5IgcrGOn4+tZvU1L9mb1FJ9nb1FDdwI8Ad6TPNS/Z29RR9nb1FICLPNN3nNT/Z29RUfkNnqtAH/
 2Q==
 
-------=_NextPart_01CE1F67.CA2ECB80
+------=_NextPart_01CE2A0E.DEA5A730
 Content-Location: file:///C:/E8AC5238/file7352.files/header.htm
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/html; charset="us-ascii"
@@ -2586,7 +2598,7 @@ r:footnote-continuation-separator'><![if !supportFootnotes]>
 
 </html>
 
-------=_NextPart_01CE1F67.CA2ECB80
+------=_NextPart_01CE2A0E.DEA5A730
 Content-Location: file:///C:/E8AC5238/file7352.files/filelist.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml; charset="utf-8"
@@ -2600,4 +2612,4 @@ Content-Type: text/xml; charset="utf-8"
  <o:File HRef=3D"header.htm"/>
  <o:File HRef=3D"filelist.xml"/>
 </xml>
-------=_NextPart_01CE1F67.CA2ECB80--
+------=_NextPart_01CE2A0E.DEA5A730--
